@@ -1,0 +1,9 @@
+# Site settings
+title: Testing site
+author:
+  name: Sophie
+  email: test@test.com
+description: "This is my testing site"
+
+# Build settings
+remote_theme: jekyll/minima
